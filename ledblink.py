@@ -1,7 +1,7 @@
 ﻿import time
 import RPi.GPIO as GPIO
 
-TIME = 1.0 
+TIME = 0.5 
 ROOP = 10
 
 GPIO.setmode(GPIO.BCM)
